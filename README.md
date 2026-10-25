@@ -1,7 +1,11 @@
 # Mai vibed slop!
-*It works on my pc*
+<div align="center">
+  <h1><var>"It works on my pc."</var></h1>
+  <p><kbd>— Not by linus torvalds, 2069</kbd></p>
+</div>
 
-## Developer
+
+## Our main developers
 - Gemini 3.8 Flash
 - MiniMax M3
 - GLM 5.3 Flash
